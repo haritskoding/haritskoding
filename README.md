@@ -2,6 +2,7 @@
 
 <!--
 **haritskoding/haritskoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: teguh.m.harits3@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 'am Single and  i'am Happy
--->
+
